@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tip de Seguridad: [TEMA]</title>
+</head>
+<body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f6f8; margin: 0; padding: 40px 0; color: #333;">
+
+    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); margin: 0 auto;">
+        <tr>
+            <td style="padding: 30px 40px; border-bottom: 1px solid #e9ecef;">
+                <h1 style="color: #1e3a8a; font-size: 22px; margin: 0; text-align: left;">
+                    Tip de Seguridad Corporativo: [TEMA]
+                </h1>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 35px 40px; line-height: 1.6; font-size: 15px; color: #4b5563;">
+                <p style="margin-top: 0; margin-bottom: 16px;">
+                    Hola a todos,
+                </p>
+                <p style="margin-bottom: 16px;">
+                    Para mantener la seguridad de nuestra información frente a amenazas, el equipo de IT os hace llegar periódicamente estas recomendaciones de ciberseguridad.
+                </p>
+                <p style="margin-bottom: 24px;">
+                    En el archivo adjunto encontraréis las pautas actuales sobre <strong>[TEMA]</strong>. Conocer estos riesgos nos permite actuar con mayor confianza en nuestras tareas diarias.
+                </p>
+                <p style="margin-bottom: 24px;">
+                    Os recordamos que cualquier incidencia de seguridad debe ser reportada a <a href="mailto:seguridad@empresa.com" style="color: #003366; text-decoration: underline; font-weight: bold;">seguridad@empresa.com</a>.
+                </p>
+                <p style="margin-bottom: 0; font-weight: 500; color: #1f2937;">
+                    Gracias por vuestro compromiso con la seguridad.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 24px 40px; background-color: #f9fafb; border-top: 1px solid #e9ecef; border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; text-align: left; font-size: 13px; color: #6b7280;">
+                <p style="margin: 0;">
+                    <strong>El equipo de Seguridad IT</strong>
+                </p>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
